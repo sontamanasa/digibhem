@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    .all{
+        border-radius: 8px solid black;
+        background-color:rgba(159, 158, 156, 0.565);
+        box-shadow: 1px 2px 5px;
+        height:2300px;
+        padding:10px;
+    }
+    .no{
+        width: 80%;
+        margin-left: 11%;
+    }
+    p{
+        display: inline;
+    }
+    body{
+        font-size:xx-large;
+        background-image: url(https://images.unsplash.com/photo-1529290130-4ca3753253ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTM5fHxob3RlbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60);
+        background-size: cover;
+    }
+    
